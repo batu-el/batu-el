@@ -1,3 +1,1 @@
-## Hi 👋
-
-I am Batu, a second year PhD student at Stanford University.
+Hi 👋, I am Batu. I'm a PhD student at Stanford University.
