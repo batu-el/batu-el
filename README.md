@@ -1,1 +1,1 @@
-Hi 👋, I am Batu. I'm a PhD student at Stanford University.
+phd student in computational and mathematical engineering at stanford, advised by james zou. knight-hennessy scholar. previously mphil in advanced computer science at cambridge with andreas vlachos, consultant at the world bank, and undergraduate in mathematics, computer science, and economics at tulane.
